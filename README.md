@@ -1,16 +1,97 @@
-## Hi there 👋
+Welcome to my portfolio! I'm **Naoufal Badou**, also known as **Bermuda Ronin**, a passionate software engineer specializing in backend development. This repository showcases my projects, skills, and learning journey as I explore the world of software engineering.
 
-<!--
-**BermudaRonin/BermudaRonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+###### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Loading ...`
+<!-- <details style="padding-left:16px;">
+<summary >Project 1</summary>
+
+...
+</details>
+
+<details style="padding-left:16px;">
+<summary >Project 2</summary>
+
+...
+</details>
+
+<details style="padding-left:16px;">
+<summary >Project 3</summary>
+
+...
+</details> -->
+
+###### Demonstrations
+
+`Loading ...`
+
+<!-- <details style="padding-left:16px;">
+<summary >Demo 1</summary>
+
+...
+</details>
+
+<details style="padding-left:16px;">
+<summary >Demo 2</summary>
+
+...
+</details>
+
+<details style="padding-left:16px;">
+<summary >Demo 3</summary>
+
+...
+</details> -->
+
+###### Areas of expertize
+
+`Loading ...`
+
+<!-- <details style="padding-left:16px;">
+<summary >Programming</summary>
+
+</details>
+
+
+<details style="padding-left:16px;">
+<summary >Data Modeling</summary>
+
+
+</details>
+
+<details style="padding-left:16px;">
+<summary >Databases</summary>
+
+
+</details>
+
+<details style="padding-left:16px;">
+<summary>Security</summary>
+
+
+</details>
+
+<details style="padding-left:16px;">
+<summary >Performance</summary>
+
+</details>
+
+<details style="padding-left:16px;">
+<summary >Documentation</summary>
+
+
+</details>
+
+<details style="padding-left:16px;">
+<summary >Version control</summary>
+
+
+</details> -->
+
+---
+
+*Thank you for visiting my portfolio! I look forward to connecting and exploring exciting opportunities together.*
+
+[LinkedIn](https://www.linkedin.com/in/naoufalbadou) • [email](mailto:bermudaRonin@example.com)
