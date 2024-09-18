@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=bermudaronin)
+
 Welcome to my portfolio! I'm **Naoufal Badou**, also known as **Bermuda Ronin**, a passionate software engineer specializing in backend development. This repository showcases my projects, skills, and learning journey as I explore the world of software engineering.
 
 ---
