@@ -11,6 +11,11 @@ Welcome to my portfolio! I'm **Naoufal Badou**, also known as **Bermuda Ronin**,
 
 ###### Projects
 
+- [Todos](./nodejs-todos-api)
+- [Blog](./nodejs-blog-api)
+- [Ecommerce](./nodejs-ecommerce-api)
+- [Chat](./nodejs-chat-api)
+
 `Loading ...`
 <!-- <details style="padding-left:16px;">
 <summary >Project 1</summary>
