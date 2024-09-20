@@ -9,7 +9,7 @@ Welcome to my portfolio! I'm **Naoufal Badou**, also known as **Bermuda Ronin**,
 </div>
 ---
 
-##### Demonstrations
+### Demonstrations
 
 ###### Authentication system
 
@@ -34,7 +34,7 @@ Welcome to my portfolio! I'm **Naoufal Badou**, also known as **Bermuda Ronin**,
 - [Web socket]() **0%**
 - [gRPC]() **0%**
 
-##### Projects
+### Projects
 
 ###### Entry
 
