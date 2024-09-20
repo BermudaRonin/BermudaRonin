@@ -9,33 +9,51 @@ Welcome to my portfolio! I'm **Naoufal Badou**, also known as **Bermuda Ronin**,
 </div>
 ---
 
-###### Projects
+##### Demonstrations
 
-- [Todos](./nodejs-todos-api)
-- [Blog](./nodejs-blog-api)
-- [Ecommerce](./nodejs-ecommerce-api)
-- [Chat](./nodejs-chat-api)
+###### Authentication system
 
-`Loading ...`
-<!-- <details style="padding-left:16px;">
-<summary >Project 1</summary>
+- [JWT]() **0%**
+- [Sessions]() **0%**
+- [Passkeys]() **0%**
+- [2FA]() **0%**
+- [oAuth2]() **0%**
 
-...
-</details>
+###### Data storage
 
-<details style="padding-left:16px;">
-<summary >Project 2</summary>
+- [SQL Databases]() **0%**
+- [Document Databases]() **0%**
+- [Key value Databases]() **0%**
+- [Time series Databases]() **0%**
+- [Realtime Databases]() **0%**
 
-...
-</details>
+###### APIs 
 
-<details style="padding-left:16px;">
-<summary >Project 3</summary>
+- [REST]() **0%**
+- [SOAP]() **0%**
+- [Web socket]() **0%**
+- [gRPC]() **0%**
 
-...
-</details> -->
+##### Projects
 
-###### Demonstrations
+###### Entry
+
+- [Tasks app]() **20%**
+- [Blogging app]() **0%**
+- [Ecommerce app]() **0%**
+- [Chat app]() **0%**
+- [Finance app]() **0%**
+- [Quiz app]() **0%**
+- [Habits app]() **0%**
+
+###### Advenced projects
+
+- [Social app]() **0%**
+- [Jobs app]() **0%**
+
+###### Creative projects ✨
+
+- [Collector]() **0%**
 
 `Loading ...`
 
